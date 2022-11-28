@@ -80,7 +80,7 @@
           <div>
             <a
               class="link"
-              :href="$config.bceidURL"
+              :href="$config.orgBookURL"
               target="_blank"
               rel="noopener noreferrer"
             >
